@@ -2,8 +2,8 @@
 
 About me:
 
+- Software Developer Engineer at [OPUS Software](https://www.opus-software.com.br/).
 - Bachelor in Computer Science at [UFSCar](https://www2.ufscar.br/).
-- Software Engineer at [OPUS Software](https://www.opus-software.com.br/).
 - Previously R&D Intern at [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
 - Previously Member at [PET BCC UFSCar](https://petbcc.ufscar.br/).
 
