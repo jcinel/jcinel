@@ -2,8 +2,9 @@
 
 About me:
 
-- Software Developer Engineer at [OPUS Software](https://www.opus-software.com.br/).
+- Back-End Engineer at [Trustly](https://br.trustly.com/).
 - Bachelor in Computer Science at [UFSCar](https://www2.ufscar.br/).
+- Previously Software Developer Engineer at [OPUS Software](https://www.opus-software.com.br/).
 - Previously R&D Intern at [Instituto de Pesquisas Eldorado](https://www.eldorado.org.br/).
 - Previously Member at [PET BCC UFSCar](https://petbcc.ufscar.br/).
 
